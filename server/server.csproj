@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+  
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.6" />
+  
+    <PackageReference Include="MySql.Data" Version="9.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="System.DirectoryServices.AccountManagement" Version="9.0.7" />
+  
+    <Reference Include="Horizon.Repository.ADS">
+      <HintPath>lib\Horizon.Repository.ADS.dll</HintPath>
+    </Reference>
+    <Reference Include="Horizon.Repository.ECW">
+      <HintPath>lib\Horizon.Repository.ECW.dll</HintPath>
+    </Reference>
+    <Reference Include="InterSystems.Data.CacheClient.dll">
+      <HintPath>lib\InterSystems.Data.CacheClient.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.dll">
+      <HintPath>lib\MySql.Data.dll</HintPath>
+    </Reference>
+
+  </ItemGroup>
+
+</Project>

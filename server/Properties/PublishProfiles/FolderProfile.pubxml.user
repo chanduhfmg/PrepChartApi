@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>\\g-app1\c$\HorizonApps\PrepChartApi</_PublishTargetUrl>
+    <History>True|2026-08-05T14:19:32.9029116Z||;True|2026-08-05T09:45:15.2788010-04:00||;True|2026-08-04T07:26:55.1622583-04:00||;True|2026-08-04T07:10:17.6830898-04:00||;True|2026-08-04T07:02:53.1429464-04:00||;True|2026-08-04T06:59:06.7730331-04:00||;True|2026-08-03T12:53:29.7614390-04:00||;True|2026-08-03T12:50:13.0970654-04:00||;True|2026-08-03T12:47:52.0160425-04:00||;True|2026-08-03T12:44:14.8211563-04:00||;True|2026-08-03T12:18:07.7314780-04:00||;True|2026-07-31T05:28:07.8754264-04:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
